@@ -1,0 +1,39 @@
+body {
+    background-color: #212121;
+    box-sizing: border-box;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 290px;
+}
+
+.pallete{
+    background-color: aqua;
+    width: 80%;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 95px;
+    display: grid;
+}
+.btn{
+    align-items: center;
+    justify-content: center;
+}
+#R{
+    background-color: red;
+}
+#W{
+    background-color: antiquewhite;
+}
+#BL{
+    background-color: blue;
+}
+#Y{
+    background-color: yellow;    
+}
+#O{
+    background-color: orchid;
+}
